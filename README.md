@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-- I'm a polyglot programmer doing Clojure, Python, Javascript, Golang and Java.
+- I'm a polyglot programmer doing Clojure, Python, Javascript, Golang, Java and Kotlin.
 - Like working on scalable and reliable backend systems.
 - `M-x emacs-enthusiast`
 - Interested in SRE and DevOps.
