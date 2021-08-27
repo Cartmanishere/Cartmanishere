@@ -10,6 +10,7 @@
 ### Blog posts 📗 📚 📖
 
 <!-- BLOG-POST-LIST:START -->
+- [Hacking with Handlebars in Java and Clojure: Part II](https://medium.com/helpshift-engineering/hacking-with-handlebars-in-java-and-clojure-part-ii-c4de51f49815)
 - [Automate emails from Google Sheets](https://medium.com/@apbetahouse45/automate-emails-from-google-sheets-c5a9c6546421)
 - [Hacking with Handlebars in Java and Clojure: Part I](https://medium.com/helpshift-engineering/hacking-with-handlebars-in-java-and-clojure-part-i-fafc9a8cd8aa)
 - [Understanding gRPC and implementing a practical application in Go and Python](https://levelup.gitconnected.com/understanding-grpc-a-practical-application-in-go-and-python-f3003c9158ef)
