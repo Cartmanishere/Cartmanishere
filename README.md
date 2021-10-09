@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
-- I'm a polyglot programmer doing Clojure, Python, Javascript, Golang, Java and Kotlin.
-- Like working on scalable and reliable backend systems.
+- Doing Java, Kotlin, Clojure, Python, Javascript and Golang.
+- Like working on distributed backend systems.
 - `M-x emacs-enthusiast`
 - Interested in SRE and DevOps.
 - Building the future of Japanese cashless payments at [Paypay](https://about.paypay.ne.jp/career/en/about/).
